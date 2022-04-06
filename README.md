@@ -8,7 +8,7 @@
 
 Организаторы предполагают, что участники конкурса представят авторские подходы к анализу текстов обращений и продемонстрируют ключевые проблемы Москвы объективно, полно и наглядно.
 
-### **Решение: Построить Knowledge Graph (Граф знаний)** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges):
+### **Решение: Построить Knowledge Graph (Граф знаний)** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ghBoD4OfhKi-i-uCLuRSvP3htpJBwxy?usp=sharing):
 1. Обработка и анализ данных (pandas)
 2. Визуализации распределения по районам на карте Москвы (geopandas + folium)
 3. Построение Knowledge Graph (stanza+networkx)
